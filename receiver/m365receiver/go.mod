@@ -3,7 +3,7 @@ module github.com/observiq/bindplane-agent/receiver/m365receiver
 go 1.19
 
 require (
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.3.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.81.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza v0.81.0
